@@ -2,4 +2,5 @@
 
 Installing the C++ Compiler on Windows
 Installing CodeLite on Windows
+Configuring CodeLite on Windows
     
