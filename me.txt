@@ -14,4 +14,5 @@ Writing our first program
 Building our first program
 What are Compiler Errors?
 What are Compiler Warnings?
+What are Linker Errors?
     
