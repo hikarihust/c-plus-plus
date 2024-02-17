@@ -10,4 +10,5 @@ Creating a Default CodeLite Project Template (All Versions)
                                 Getting Started
     
 An Overview of the CodeLite Interface
+Writing our first program
     
