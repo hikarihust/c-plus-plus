@@ -21,4 +21,5 @@ What are Linker Errors?
                                 Variables and Constants
 
 Global Variables
+What is the Size of a Variable (sizeof)
     
