@@ -16,3 +16,9 @@ What are Compiler Errors?
 What are Compiler Warnings?
 What are Linker Errors?
     
+        ====================================================================
+
+                                Variables and Constants
+
+Global Variables
+    
